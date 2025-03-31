@@ -12,6 +12,7 @@ The **Data Enablement Framework** provides a structured, scalable approach to in
 - Metrics handling through **MetricFlow**.
 
 ## Project Structure
+```
 data-enablement-framework/ 
 ├── .github/ # CI/CD workflows 
 ├── config/ # YAML configuration files 
@@ -25,6 +26,7 @@ data-enablement-framework/
 ├── LICENSE # Project license 
 ├── README.md # Project documentation 
 └── requirements.txt # Python dependencies
+```
 
 ## Quick Start
 
